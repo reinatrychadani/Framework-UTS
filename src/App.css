@@ -1,5 +1,20 @@
 .App {
   text-align: center;
+  height:  410px;
+  margin: 6rem auto 8.1rem auto;
+  width: 330px;
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+  background-color: #ffffff;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 14pt;
+}
+
+.App-button {
+  background-color: chartreuse;
+  width: 210px;
+  height: 35px;
+  border-radius: 8px;
 }
 
 .App-logo {
@@ -36,3 +51,4 @@
     transform: rotate(360deg);
   }
 }
+
